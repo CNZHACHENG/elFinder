@@ -1,0 +1,13 @@
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\bin\Release\ElFinder.Net.dll
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\bin\Release\ElFinder.Net.pdb
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\bin\Release\Newtonsoft.Json.dll
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\bin\Release\System.Web.Mvc.dll
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\bin\Release\Newtonsoft.Json.xml
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\bin\Release\System.Web.Mvc.xml
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\elFinder.Net.csprojAssemblyReference.cache
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\ElFinder.Properties.Resources.resources
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\elFinder.Net.csproj.GenerateResource.cache
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\elFinder.Net.csproj.CoreCompileInputs.cache
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\elFinder.Net.csproj.CopyComplete
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\ElFinder.Net.dll
+C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net\obj\Release\ElFinder.Net.pdb

@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+此文件由 Web 项目的发布/打包过程使用。可以通过编辑此 MSBuild 文件
+自定义此过程的行为。为了解与此相关的更多内容，请访问 https://go.microsoft.com/fwlink/?LinkID=208121。 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\zhacheng\Desktop\elFinder.Net-master\elFinder.Net.Web\bin\Release\Publish</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>09/27/2012 16:57:18</publishTime>
+    </File>
+    <File Include="bin/AttributeRouting.dll">
+      <publishTime>03/12/2013 15:07:00</publishTime>
+    </File>
+    <File Include="bin/AttributeRouting.Web.dll">
+      <publishTime>03/12/2013 15:07:02</publishTime>
+    </File>
+    <File Include="bin/AttributeRouting.Web.Mvc.dll">
+      <publishTime>03/12/2013 15:06:58</publishTime>
+    </File>
+    <File Include="bin/ElFinder.Net.dll">
+      <publishTime>01/08/2021 17:03:42</publishTime>
+    </File>
+    <File Include="bin/ElFinder.Net.pdb">
+      <publishTime>01/08/2021 17:03:42</publishTime>
+    </File>
+    <File Include="bin/elFinder.Net.Web.dll">
+      <publishTime>01/08/2021 19:04:33</publishTime>
+    </File>
+    <File Include="bin/elFinder.Net.Web.pdb">
+      <publishTime>01/08/2021 19:04:33</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>07/25/2012 11:48:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>02/15/2013 14:51:22</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/08/2012 23:01:44</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>08/08/2012 17:58:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>08/08/2012 17:58:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>03/05/2013 02:04:02</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>09/25/2012 11:40:52</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>08/08/2012 17:58:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>08/08/2012 17:58:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>08/08/2012 17:58:20</publishTime>
+    </File>
+    <File Include="bin/T4MVCExtensions.dll">
+      <publishTime>04/26/2013 18:35:50</publishTime>
+    </File>
+    <File Include="bin/WebActivator.dll">
+      <publishTime>01/06/2011 21:25:42</publishTime>
+    </File>
+    <File Include="bin/WebActivator.pdb">
+      <publishTime>01/06/2011 21:25:42</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>09/27/2012 16:57:18</publishTime>
+    </File>
+    <File Include="Content/elfinder/css/elfinder.full.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/css/elfinder.min.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/css/theme.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/arrows-active.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/arrows-normal.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/crop.gif">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/dialogs.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/icons-big.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/icons-small.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/logo.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/progress.gif">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/quicklook-bg.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/quicklook-icons.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/resize.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/spinner-mini.gif">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/img/toolbar.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/elfinder.full.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/elfinder.min.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.ar.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.bg.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.ca.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.cs.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.de.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.el.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.es.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.fa.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.fr.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.hu.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.it.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.jp.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.ko.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.LANG.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.nl.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.no.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.pl.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.pt_BR.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.ru.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.tr.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.vi.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/js/i18n/elfinder.zh_CN.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/elfinder/sounds/rm.wav">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_diagonals-thick_18_b81900_40x40.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_diagonals-thick_20_666666_40x40.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_flat_10_000000_40x100.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_glass_100_f6f6f6_1x400.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_glass_100_fdf5ce_1x400.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_gloss-wave_35_f6a828_500x100.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_highlight-soft_100_eeeeee_1x100.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-bg_highlight-soft_75_ffe45c_1x100.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-icons_222222_256x240.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-icons_228ef1_256x240.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-icons_ef8c08_256x240.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-icons_ffd27a_256x240.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/images/ui-icons_ffffff_256x240.png">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery-ui.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.accordion.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.all.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.autocomplete.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.base.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.button.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.core.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.datepicker.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.dialog.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.progressbar.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.resizable.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.selectable.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.slider.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.tabs.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Content/themes/ui-lightness/jquery.ui.theme.css">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.9.1.min.map">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.10.2.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.10.2.min.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.unobtrusive-ajax.min.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.min.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/jquery.validate.unobtrusive.min.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="T4MVC.tt.hooks.t4">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="T4MVC.tt.settings.xml">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Views/Home/Files.cshtml">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Views/Shared/Error.cshtml">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Views/Shared/FilesForm.cshtml">
+      <publishTime>01/08/2021 18:54:35</publishTime>
+    </File>
+    <File Include="Views/Shared/_Layout.cshtml">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Views/_ViewStart.cshtml">
+      <publishTime>10/07/2016 20:48:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/08/2021 17:03:44</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
